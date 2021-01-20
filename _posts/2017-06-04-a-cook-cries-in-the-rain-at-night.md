@@ -1,7 +1,7 @@
 ---
 title: A cook cries in the rain at night
 date: 2017-06-04 12:00:00 Z
-categories:
+category:
 - diet
 tags:
 - cook

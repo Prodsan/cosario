@@ -1,7 +1,7 @@
 ---
 title: Why books should be your priority?
 date: 2018-11-22 12:26:40 Z
-categories:
+category:
 - life
 tags:
 - books

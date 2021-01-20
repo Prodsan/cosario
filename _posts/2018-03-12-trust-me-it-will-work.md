@@ -1,7 +1,7 @@
 ---
 title: Trust me, it will work
 date: 2018-03-12 12:26:40 Z
-categories:
+category:
 - tips
 tags:
 - languages
