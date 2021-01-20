@@ -1,7 +1,7 @@
 ---
 title: How to turn your dog into a Jedi master
 date: 2018-02-03 12:26:40 Z
-category:
+categories:
 - tutorial
 tags:
 - jedi

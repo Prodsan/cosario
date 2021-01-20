@@ -1,7 +1,7 @@
 ---
 title: The quick brown fox jumps over a lazy dog
 date: 2018-10-09 12:26:40 Z
-category:
+categories:
 - css
 tags:
 - css

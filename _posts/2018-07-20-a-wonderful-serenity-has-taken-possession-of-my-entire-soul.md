@@ -1,7 +1,7 @@
 ---
 title: A wonderful serenity has taken possession of my entire soul
 date: 2018-07-20 12:26:40 Z
-category:
+categories:
 - code
 tags:
 - platform

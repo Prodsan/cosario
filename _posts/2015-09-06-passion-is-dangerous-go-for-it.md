@@ -1,7 +1,7 @@
 ---
 title: Passion is dangerous, go for it!
 date: 2015-09-06 12:00:00 Z
-category:
+categories:
 - work
 tags:
 - work

@@ -1,7 +1,7 @@
 ---
 title: Let flexbox work for you or perish
 date: 2017-08-14 22:55:45 Z
-category:
+categories:
 - css
 tags:
 - css

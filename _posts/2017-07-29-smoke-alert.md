@@ -1,7 +1,7 @@
 ---
 title: Smoke alert
 date: 2017-07-29 13:24:49 Z
-category:
+categories:
 - blog
 tags:
 - jekyll

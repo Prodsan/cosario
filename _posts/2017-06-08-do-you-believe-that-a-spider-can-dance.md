@@ -1,7 +1,7 @@
 ---
 title: Do you believe that a spider can dance?
 date: 2017-06-08 12:00:00 Z
-category:
+categories:
 - travel
 tags:
 - fate
