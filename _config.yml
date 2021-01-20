@@ -20,7 +20,7 @@ tags:
 - jekyll
 - theme
 - netlify
-show_hero: false
+show_hero: true
 menu:
 - title: Inicio
   url: "/"
@@ -42,8 +42,8 @@ show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: false
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 google_analytics: UA-XXXXXXXX-X
 language: en
 categories_folder: category
