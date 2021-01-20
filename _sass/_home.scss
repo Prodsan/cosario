@@ -75,7 +75,7 @@
 
       .cover {
         .new-post-tag {
-          background-color: #000;
+          background-color: #ffd757;
         }
 
         .read-icon {
@@ -100,6 +100,7 @@
     font-size: rem(18px);
     padding: 0 rem(15px);
     background-color: steelblue;
+    border-radius: 5px 5px 0 0;
 
     a {
       color: #fff;

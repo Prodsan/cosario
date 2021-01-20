@@ -1,7 +1,7 @@
 ---
 title: A star has fallen from the sky and the cat ate it
 date: 2017-08-07 23:04:08 Z
-categories:
+category:
 - music
 tags:
 - crazy

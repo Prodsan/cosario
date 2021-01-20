@@ -1,7 +1,7 @@
 ---
 title: Candy, candies, candy!
 date: 2018-04-21 12:26:40 Z
-categories:
+category:
 - diet
 tags:
 - food

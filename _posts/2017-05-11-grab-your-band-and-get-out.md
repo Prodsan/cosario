@@ -1,7 +1,7 @@
 ---
 title: Grab your band and get out
 date: 2017-05-11 12:00:00 Z
-categories:
+category:
 - music
 tags:
 - music

@@ -1,64 +1,70 @@
----
-title: Cosario | Lo que venías buscando
-timezone: UTC
-collections:
-  authors:
-    title: Authors
-    output: true
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+# Site Settings
 name: Cosario
-description: Cosario te trae las cosas útiles e interesantes del internet. ¡Siempre
-  contenidos de alta calidad y actualizados!
+title: Cosario | Lo que venías buscando
+description: Cosario te trae las cosas útiles e interesantes del internet. ¡Siempre contenidos de alta calidad y actualizados! 
 tags:
-- blog
-- template
-- jekyll
-- theme
-- netlify
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
 show_hero: false
 menu:
-- title: Inicio
-  url: "/"
-- title: About
-  url: "/about"
-- title: Contact
-  url: "/contact"
-- title: Feed
-  url: "/feed.xml"
+  - title: Inicio
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
 email: youremail@test.com
 disqus_username: disqus_username
+
+
+# Social Media Settings
+# Remove the item if you don't need it
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
+
+
+# Posts Settings
 show_time_bar: true
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: false
-baseurl: ''
-url: ''
-google_analytics: UA-XXXXXXXX-X
-language: en
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
+
+
+# Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: "/:title/"
+permalink: /:title/
+collections:
+  authors:
+    output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
 use_logo: false
+
+# Content paginator
 paginate_content:
   enabled: true
   debug: false
   collections:
-  - posts
+    - posts
   auto: false
   separator: "--page-break--"
   permalink: "/:num/"
@@ -70,21 +76,30 @@ paginate_content:
       is_generated: true
     single:
       is_generated: true
+
+# SASS
 sass:
   style: compressed
+
+# Plugins
 plugins:
-- jekyll-paginate
-- jekyll-paginate-content
-- jekyll-remote-theme
-exclude:
-- package.json
-- package-lock.json
-- src
-- node_modules
-- initpost.sh
-- Gemfile
-- Gemfile.lock
-- gulpfile.js
-- README.md
+  - jekyll-paginate
+  - jekyll-paginate-content
+  - jekyll-remote-theme
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
 version: v1.0.0
 remote-theme: thiagorossener/jekflix-template
