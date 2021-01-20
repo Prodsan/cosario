@@ -1,6 +1,6 @@
 # Site Settings
 name: Cosario
-title: Cosario | Las cosas que venías buscando
+title: Cosario | Lo que venías buscando
 description: Cosario te trae las cosas útiles e interesantes del internet. ¡Siempre contenidos de alta calidad y actualizados! 
 tags:
   - blog
@@ -86,6 +86,7 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
   - jekyll-remote-theme
+  - jemoji
 
 # Exclude my node related stuff
 exclude: [
