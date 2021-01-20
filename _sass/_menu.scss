@@ -4,6 +4,87 @@
   box-sizing: border-box;
 }
 
+
+
+.navbar {
+  display: inline-block;
+  height: 0;
+  .toggle, .brand {
+    display: inline-block;
+  }
+  .link {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0.46em;
+    text-decoration: none;
+    background: seagreen;
+    color: white;
+    &:hover,&:active {
+      background: black;
+    }
+  }
+  .brand {
+    width: 10em;
+    text-align: center;
+    padding: 1em;
+    background: black;
+    color: white;
+  }
+  .toggle {
+    padding: 0.5em;
+    color: black;
+    vertical-align: bottom;
+  }
+}
+
+@media (min-width: 48em) {
+    .navbar {
+      float: right;
+      display: flex;
+      .link {
+          width: auto;
+      }
+      .right {
+        justify-content: flex-end;
+        display: block;
+        flex: 1;
+      }
+      .toggle {
+        display: none;
+      }
+    }
+}
+
+.navbar {
+  a {
+    text-decoration: none;
+  }
+  div {
+    display: none;
+    @media (min-width: 48em) {
+      display: flex;
+    }
+  }
+}
+
+@media (max-width: 48em) {
+.navbar.active {
+  position: inherit;
+  .toggle {
+
+    background: seagreen;
+    color: white;
+  }
+  div {
+    display: block;
+  }
+}
+}
+
+
+
+
 body.has-push-menu,
 body.has-push-menu aside,
 body.has-push-menu .progress-bar {
