@@ -18,10 +18,12 @@
     text-align: center;
     padding: 0.46em;
     text-decoration: none;
-    background: seagreen;
-    color: white;
+    background-color: #053963;
+    color: #ffffff;
+    border-radius: 3px;
     &:hover,&:active {
-      background: black;
+      background: #91c2ea;
+      border: 1px solid steelblue
     }
   }
   .brand {
@@ -32,9 +34,12 @@
     color: white;
   }
   .toggle {
-    padding: 0.5em;
-    color: black;
+    padding: 0.4em;
+    color: white;
+    font-weight: bold;
     vertical-align: bottom;
+    border: 1px solid white;
+    border-radius: 18px;
   }
 }
 
@@ -44,6 +49,8 @@
       display: flex;
       .link {
           width: auto;
+          color: white;
+          margin-right: 1em;
       }
       .right {
         justify-content: flex-end;
@@ -72,8 +79,7 @@
 .navbar.active {
   position: inherit;
   .toggle {
-
-    background: seagreen;
+    background: steelblue;
     color: white;
   }
   div {
