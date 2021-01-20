@@ -86,6 +86,7 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
   - jekyll-remote-theme
+  - jemoji
 
 # Exclude my node related stuff
 exclude: [
