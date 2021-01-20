@@ -1,7 +1,7 @@
 ---
 title: Welcome to the desert of the real
 date: 2019-05-16 23:48:05 Z
-categories:
+category:
 - blog
 tags:
 - welcome

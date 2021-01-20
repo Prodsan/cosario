@@ -1,7 +1,7 @@
 ---
 title: Birds can fly, but this you knew already
 date: 2010-09-10 12:26:40 Z
-categories:
+category:
 - life
 tags:
 - life
