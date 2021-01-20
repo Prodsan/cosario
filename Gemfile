@@ -9,3 +9,4 @@ gem "jekyll-paginate-content"
 gem "json"
 gem "jekyll-remote-theme"
 gem 'jemoji'
+gem 'jekyll-seo-tag'

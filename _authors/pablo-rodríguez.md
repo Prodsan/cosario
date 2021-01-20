@@ -8,6 +8,7 @@ bio: >-
   resultar interesantes.
 
   A la misma vez, soy el "recadero" que hace honor a la palabra de esta web. 💙
+canonical_url: https://cosario.net/biografia
 github_username: Prodsan
 instagram_username: pablor.98
 ---
