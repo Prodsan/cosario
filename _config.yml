@@ -20,6 +20,8 @@ menu:
     url: /feed.xml
 email: youremail@test.com
 disqus_username: disqus_username
+cookie_consent: true     # To respect the usage of cookies
+cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <span style="color:white"><a href="https://ciberninjas.com/aviso-legal/">Saber Más</a></span>
 
 
 # Social Media Settings
@@ -42,7 +44,7 @@ two_columns_layout: false
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cosario.net" # the base hostname & protocol for your site
-google_analytics: "G-5CP1S60J4T"   #"UA-XXXXXXXX-X"
+google_analytics: "UA-XXXXXXXX-X"
 language: "es_ES"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"

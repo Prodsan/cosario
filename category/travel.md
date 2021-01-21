@@ -1,6 +1,6 @@
 ---
 layout: category
 title: 🔰 Travel
-slug: travel
+slug: 🔰 travel
 description: A category for travel related posts.
 ---
