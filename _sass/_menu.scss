@@ -5,6 +5,13 @@
 }
 
 
+body.light:not(.main-page) {
+  .toggle {
+    color: black;
+    border: 1px solid #353535; 
+  }
+}
+
 
 .navbar {
   display: inline-block;
