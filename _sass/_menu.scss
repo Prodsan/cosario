@@ -18,12 +18,11 @@
     text-align: center;
     padding: 0.46em;
     text-decoration: none;
-    background-color: #053963;
+    background-color: #0a6fc147;
     color: #ffffff;
     border-radius: 3px;
     &:hover,&:active {
-      background: #91c2ea;
-      border: 1px solid steelblue
+      background: #1c4982;
     }
   }
   .brand {
@@ -76,6 +75,11 @@
 }
 
 @media (max-width: 48em) {
+.navbar {
+  .link {
+    background-color: #053963;
+  }
+}
 .navbar.active {
   position: inherit;
   .toggle {
