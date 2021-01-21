@@ -20,8 +20,6 @@ menu:
     url: /feed.xml
 email: youremail@test.com
 disqus_username: disqus_username
-cookie_consent: true     # To respect the usage of cookies
-cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <span style="color:white"><a href="https://ciberninjas.com/aviso-legal/">Saber Más</a></span>
 
 
 # Social Media Settings
