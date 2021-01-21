@@ -85,6 +85,10 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,700" rel="stylesheet">
 
+    <!-- Bootstrap-4 CSS -->
+  <!-- <link rel="stylesheet" type="text/css" href="{{ '/assets/css/vendor/bootstrap.min.css' | relative_url }}" /> -->
+
+
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <link rel="canonical" href="{{ url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
@@ -92,10 +96,8 @@
     <!-- Include extra styles -->
     {% include extra-css.html %}
     <!-- <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" /> -->
-    <!-- cookies & Google Analytics -->
-    {% if site.cookie_consent %} {% include cookie-consent.html %} {% elsif site.google_analytics and !%}
 
-
+    {% include cookie-consent.html %}
     <!-- JavaScript enabled/disabled -->
     <script>
         document.querySelector('html').classList.remove('no-js');
