@@ -34,7 +34,7 @@ layout: main
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
                         <svg><use xlink:href="#icon-read"></use></svg>
-                        <span>{{ site.translations.button.read_now | default: "Read Now" }}</span>
+                        <span>{{ site.translations.button.read_now | default:"Ver ahora" }}</span>
                     </a>
                 </div>
             </div>
@@ -46,7 +46,7 @@ layout: main
 
             <article class="box-item">
                 <span class="category">
-                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ post.category }}">
+                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default:'categoría' }}/{{ post.category }}">
                         <span>🔰 {{ post.category }} </span>
                     </a>
                 </span>
