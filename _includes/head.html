@@ -92,6 +92,9 @@
     <!-- Include extra styles -->
     {% include extra-css.html %}
     <!-- <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" /> -->
+    <!-- cookies & Google Analytics -->
+    {% if site.cookie_consent %} {% include cookie-consent.html %} {% elsif site.google_analytics and !%}
+
 
     <!-- JavaScript enabled/disabled -->
     <script>
