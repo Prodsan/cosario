@@ -46,7 +46,7 @@ layout: main
 
             <article class="box-item">
                 <span class="category">
-                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default:'categoría' }}/{{ post.category }}">
+                    <a href="{{ site.baseurl }}/{{ site.categories_folder | default:'categoría' }}/{{ post.category | slice: 2, post.category.size }}">
                         <span> {{ post.category }} </span>
                     </a>
                 </span>
