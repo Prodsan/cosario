@@ -41,6 +41,12 @@ body {
         width: rem(205px);
       }
     }
+
+    img {
+      display: inline;
+      width: 28px;
+      vertical-align: top;
+    }
   }
 
   .version {
