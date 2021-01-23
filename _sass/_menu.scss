@@ -10,6 +10,13 @@ body.light:not(.main-page) {
     color: black;
     border: 1px solid #353535; 
   }
+  .link {
+    color: #353535;
+    background-color: #00000012;
+    &:hover,&:active {
+      background: #d4d4d4;
+    }
+  }
 }
 
 
@@ -54,14 +61,17 @@ body.light:not(.main-page) {
       float: right;
       display: flex;
       .link {
-          width: auto;
+          width: max-content;
           color: white;
           margin-right: 1em;
       }
-      .right {
+      .categoria {
         justify-content: flex-end;
         display: block;
         flex: 1;
+        // a {
+        //   width: 10px;
+        // }
       }
       .toggle {
         display: none;
