@@ -2,27 +2,41 @@
     <a id="menu" role="button">
         <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
     </a>
-    <h1 class="logo">
-        <a href="{{ site.baseurl }}/">
-            <img src="/assets/img/logo_cosas.png" alt="cosario logo">
-                {{ site.name }} <!--<span class="version">{{ site.version }}</span>-->
+    <div>
+      <h1 class="logo">
+          <a href="{{ site.baseurl }}/">
+              <img src="/assets/img/logo_cosas.png" alt="cosario logo">
+                  {{ site.name }} <!--<span class="version">{{ site.version }}</span>-->
+          </a>
+      </h1>
+      <a id="search" class="dosearch" role="button">
+          <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
         </a>
-    </h1>
-    <a id="search" class="dosearch" role="button">
-        <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
-      </a>
         <nav class="navbar">
-          <a href="#" class="toggle" ><span style="text-decoration: none;">🔰</span> Categorías</a>
-          <div class="categoria">
-            <a href="#" class="link">🔰 General</a>
-          </div>
-          <div class="categoria">
-            <a href="#" class="link">💻 Tecnología</a>
-          </div>
-          <div class="categoria">
-            <a href="#" class="link">🚵‍♂️ Tiempo libre</a>
-          </div>
-        </nav>
+            <a href="#" class="toggle" ><span style="text-decoration: none;">🔰</span> Categorías</a>
+            
+            <div class="categoria">
+              <a href="#" class="link">🔰 General</a>
+              
+            </div>
+            <div class="categoria">
+              <a href="#" class="link">💻 Tecnología</a>
+            </div>
+            <div class="categoria">
+              <a href="#" class="link">🚵‍♂️ Tiempo libre</a>
+            </div><div class="categoria">
+              <a href="#" class="link">🎁 Regalos</a>
+            </div>
+            <div class="categoria">
+              <a href="#" class="link">🚵‍♂️ Tiempo libre</a>
+            </div><div class="categoria">
+              <a href="#" class="link">💻 Tecnología</a>
+            </div>
+            <div class="categoria">
+              <a href="#" class="link">🆓 Cosas gratis</a>
+            </div>
+          </nav>
+    </div>
     {% if site.show_get_theme_btn %}
         <!-- <a href="https://github.com/thiagorossener/jekflix-template" class="get-theme" role="button">
             Get this theme!

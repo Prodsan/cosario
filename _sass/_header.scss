@@ -12,6 +12,14 @@ body {
   z-index: 10;
   transition: top 0.5s, left 0.3s ease, background-color 0.5s, box-shadow 0.5s;
   
+  div {
+    text-align: center;
+    .logo {
+      float: left;
+    }
+  }
+
+
   @include media(">=sm") {
     padding: rem(15px) rem(0px);
   }

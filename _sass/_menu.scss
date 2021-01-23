@@ -56,12 +56,14 @@ body.light:not(.main-page) {
   }
 }
 
-@media (min-width: 48em) {
+@media (min-width: 90em) {
     .navbar {
       float: right;
       display: flex;
+      
       .link {
           width: max-content;
+          height: fit-content;
           color: white;
           margin-right: 1em;
       }
@@ -85,16 +87,20 @@ body.light:not(.main-page) {
   }
   div {
     display: none;
-    @media (min-width: 48em) {
+    @media (min-width: 90em) {
       display: flex;
     }
   }
 }
 
-@media (max-width: 48em) {
+@media (max-width: 90em) {
 .navbar {
   .link {
     background-color: #053963;
+    height: 33px;
+    margin: 1px;
+    // border-bottom: 1px solid #4682b4;
+    // border-radius: unset;
   }
 }
 .navbar.active {
@@ -102,9 +108,10 @@ body.light:not(.main-page) {
   .toggle {
     background: steelblue;
     color: white;
+    vertical-align: middle;
   }
   div {
-    display: block;
+    display: inline-block;
   }
 }
 }
