@@ -13,11 +13,11 @@ tags:
   - cosas
   - barbacoas
 author: Pablo
-paginate: false
+paginate: true
 ---
 Es hora de ponerse frente al ordenador o al móvil para buscar las cosas que necesitas para ese momento en el que te dispondrás a preparar una barbacoa. Pero para ahorrarte el trabajo, he estado informándome sobre **las mejores barbacoas y utensilios** para realizarlas que te pondré más abajo. 
 
-* [Porciones por tipo de persona] (#características-de-pycharm)
+* [Porciones de carne por tipo de persona] (#Porciones-de-carne-por-tipo-de-persona)
 * **[Cantidades](#características-de-pycharm)**
 
 ### Porciones de carne por tipo de persona 
@@ -29,3 +29,4 @@ Quizás parezca una tontería, pero más de uno seguro que querrá repetir, y se
 
 
 ### **Características de PyCharm**
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=pablorodrig02-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B08FCBR7K2&linkId=0ccf82791a87e264869272a0c67f08bb"></iframe>
