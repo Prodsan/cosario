@@ -20,13 +20,12 @@ Es hora de ponerse frente al ordenador o al móvil para buscar las cosas que nec
 * [Porciones por tipo de persona] (#características-de-pycharm)
 * **[Cantidades](#características-de-pycharm)**
 
-### Porcionesde carne por tipo de persona 
+### Porciones de carne por tipo de persona 
 
 Pero antes no debemos dejar atrás las cantidades de carne que debes comprar.
-Hay que tener en cuenta que para una **mujer** es aconsejable entre **300-350 gramos de carne**, para un **hombre 450-500 gramos** de carne, entre **150-200 gramos** de carne por **niño** y  unos **350-400 gramos** de carne por **persona anciana**.
+Hay que tener en cuenta que para una **mujer** es aconsejable entre **300-350 gramos de carne**, para un **hombre 450-500 gramos** de carne, entre **150-200 gramos** de carne por **niño** y  unos **350-400 gramos** de carne por **persona anciana**. 
 
-```
+Quizás parezca una tontería, pero más de uno seguro que querrá repetir, y según lo que coma esa persona, podrás calcular aproximadamente la cantidad que vas a ir a comprar a la carnicería. 
 
-```
 
 ### **Características de PyCharm**
