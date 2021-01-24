@@ -17,7 +17,7 @@ paginate: true
 ---
 Es hora de ponerse frente al ordenador o al móvil para buscar las cosas que necesitas para ese momento en el que te dispondrás a preparar una barbacoa. Pero para ahorrarte el trabajo, he estado informándome sobre **las mejores barbacoas y utensilios** para realizarlas que te pondré más abajo. 
 
-* [Porciones de carne por tipo de persona] (#Porciones-de-carne-por-tipo-de-persona)
+* [Porciones de carne por tipo de persona](#Porciones-de-carne-por-tipo-de-persona)
 * **[Cantidades](#características-de-pycharm)**
 
 ### Porciones de carne por tipo de persona 
