@@ -46,4 +46,11 @@ Tras indagar buscando **las mejores parrillas de carbón** para hacer una barbac
 
 He optado por elegir las dos mejores, que satisfacerán tus necesidades en función de lo que necesites. Es decir, la parrilla/barbacoa Femor es mucho más práctica ya que es plegable y te servirá tanto para tu casa como para llevártela fuera al campo, por ejemplo. Por otro lado, la Weber es una barbacoa estéticamente más bonita y con mejores materiales (no quiere decir que los materiales de la otra sean malos), y diría que más pensada para dejarla fija en casa ya que es estéticamente muy bonita, y no andar recogiéndola como la Femor.
 
+### **Utensilios necesarios**
+#### **Brochetas**
+Con 
+
+
+
+
 Con todos estos utensilios que necesitabas para hacer tu barbacoa, ya estás preparado para pasar un día estupendo y ¡sorprender a tus invitados asando la carne o verduras como todo un profesional! 😊
