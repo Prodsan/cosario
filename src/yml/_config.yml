@@ -1,7 +1,7 @@
 # Site Settings
 name: Cosario
-title: Las cosas que venías buscando - Cosario
-description: Cosario te trae las cosas útiles e interesantes del internet. ¡Siempre contenidos de alta calidad y actualizados! 
+title: Cosario
+description: Te traemos las cosas útiles e interesantes del internet. ¡Siempre contenidos de alta calidad y actualizados! 
 tags:
   - blog
   - template
@@ -46,6 +46,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cosario.net" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "es_ES"
+lang: "es_ES"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
