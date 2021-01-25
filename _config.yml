@@ -50,6 +50,8 @@ lang: "es_ES"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
+permalink: /:categories
+
 
 # Build settings
 markdown: kramdown

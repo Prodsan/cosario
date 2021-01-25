@@ -1,17 +1,19 @@
 ---
-date: 2021-01-18 17:04:18
+date: 2021-01-25 04:47:29
 layout: post
-title: prueba pag 1
-subtitle: esto es una prueba que será muy útil
-description: es una descripción válida de prueba
-image: /assets/img/uploads/perfil_tenis_saque.jpg
-category: 👍 travel
+title: ¿Qué comprar para una barbacoa? Todas las cosas que necesitas
+subtitle: Información y selección de los mejores productos para hacer una barbacoa
+description: ¿Vas a preparar una barbacoa dentro de poco? Asegúrate de que tienes todos los utensilios e información necesarias
+image: /assets\img\uploads\posts\2021\barbacoa\barbacoa-principal.jpg
+category: 🚵‍♂️ Tiempo libre
 tags:
-  - pruebas
-  - test
+  - utensilios
+  - cosas
+  - barbacoas
 author: Pablo
-paginate: false
-published: false
+paginate: true
+published: true
+canonical_URL: https://cosario.net/que-comprar-para-barbacoa/
 ---
 lorem ipsum
 

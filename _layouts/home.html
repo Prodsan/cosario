@@ -43,10 +43,10 @@ layout: main
     <!-- Posts -->
     <section id="grid" class="row flex-grid">
         {% for post in posts offset: offset %}
-
+            {% assign categoria = post.category | slice: 2, post.category.size %}
             <article class="box-item">
                 <span class="category">
-                    <a href="{{ site.baseurl }}/{{ post.category | slice: 2, post.category.size }}">
+                    <a href="{{ site.baseurl }}/{{ categoria | slugify}}">
                         <span> {{ post.category }} </span>
                     </a>
                 </span>

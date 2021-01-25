@@ -20,7 +20,7 @@ $color-below-image: #ccc;
   transition: transform $delay;
 }
 .dosproductos{
-  @include media(">sm") {
+  @media screen and (min-width: 992px) { 
     width: 60%!important;
     margin: 5px;
     margin-left: auto;
