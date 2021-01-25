@@ -52,7 +52,7 @@ $color-below-image: #ccc;
 
 //hecho
 .cuatroproductos{
-  @include media(">sm") {
+  @media screen and (min-width: 992px) { 
     width: 80%!important;
     margin-left: auto;
     margin-right: auto;
@@ -62,7 +62,7 @@ $color-below-image: #ccc;
 
     .product {
       font-size: 17px!important;
-      width: 24%;
+      width: 23%;
       margin-right: 1%;
       display: inline-grid;
     }
@@ -86,12 +86,9 @@ $color-below-image: #ccc;
 
   }
 }
-.prodbottom {
-  height: 100%;
-}
 
 .product{
-  @include media(">sm") {
+  @media screen and (min-width: 992px) {
     width: auto;
     display: table-cell;
     font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
@@ -105,7 +102,7 @@ $color-below-image: #ccc;
     margin: auto;
     overflow: hidden;
     margin-bottom: 20px;
-    border: 1px solid black;
+    // border: 1px solid black;
     border-radius: 5px;
   }
   @include media("<=sm") {
