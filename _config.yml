@@ -46,18 +46,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cosario.net" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "es_ES"
-lang: "es_ES"
+#lang: "es_ES"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
-
-media_folder: "static/images/uploads"
-media_library:
-   name: uploads
-
-collections:
-  - name: "nhs-service" 
-    label: "Service" 
-    folder: "content/ccg" 
 
 
 # Build settings
