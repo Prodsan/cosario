@@ -11,8 +11,8 @@ tags:
   - cosas
   - barbacoas
 author: Pablo
-paginate: true
-published: true
+paginate: false
+published: false
 canonical_URL: https://cosario.net/que-comprar-para-barbacoa/
 ---
 lorem ipsum
