@@ -18,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: contacto@cosario.net
 disqus_username: disqus_username
 cookie_consent: true     # To respect the usage of cookies
 cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar la funcionalidad de la web. <span style="color:white"><a href="https://ciberninjas.com/aviso-legal/">Saber Más</a></span>
@@ -26,12 +26,11 @@ cookie_consent_disclaimer: Nos gustaría utilizar cookies y scripts para mejorar
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: prodsan
+facebook_username: 
+twitter_username: _Pablor98
+instagram_username: pablor.98
+linkedin_username: pablorodriguezdev
 
 
 # Posts Settings

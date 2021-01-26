@@ -1,7 +1,9 @@
 ---
-date: 2021-01-25 04:47:29
+date: 2021-01-26 03:19:29
 layout: post
 title: ¿Qué comprar para una barbacoa? Todas las cosas que necesitas
+canonical_url: https://cosario.net/que-comprar-para-barbacoa
+permalink: "/que-comprar-para-barbacoa/" # importante para canonical_url
 subtitle: Información y selección de los mejores productos para hacer una barbacoa
 description: ¿Vas a preparar una barbacoa dentro de poco? Asegúrate de que tienes todos los utensilios e información necesarias
 image: /assets\img\uploads\posts\2021\barbacoa\barbacoa-principal.jpg
@@ -13,7 +15,7 @@ tags:
 author: Pablo
 paginate: true
 published: true
-canonical_URL: https://cosario.net/que-comprar-para-barbacoa/
+
 ---
 Es hora de ponerse frente al ordenador o al móvil para buscar las cosas que necesitas para ese momento en el que te dispondrás a preparar una barbacoa. Pero para ahorrarte el trabajo, he estado informándome sobre **las mejores barbacoas y utensilios** para realizarlas que te pondré más abajo. 
 
@@ -524,8 +526,8 @@ Dentro de la sección de las pinzas, las mejores pinzas suelen ser las que está
 </div>
 
 #### **Los mejores pinceles bbq** relación calidad/precio
-Con estos pinceles para barbacoas, podrás darle ese toque exquisito sabor a barbacoa que a todos nos gusta.
-Os dejo estos tres que para mi son las mejores opciones calidad/precio que he podido encontrar.
+Con estos **pinceles** para barbacoas, podrás darle ese toque exquisito sabor a barbacoa que a todos nos gusta.
+Os dejo estos tres que para mi son las **mejores opciones calidad/precio** que he podido encontrar.
 
 <div class="tresproductos"> 
   <div class="product">
