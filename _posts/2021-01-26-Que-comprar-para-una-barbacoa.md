@@ -6,7 +6,7 @@ canonical_url: https://cosario.net/que-comprar-para-barbacoa
 permalink: "/que-comprar-para-barbacoa/" # importante para canonical_url
 subtitle: Información y selección de los mejores productos para hacer una barbacoa
 description: ¿Vas a preparar una barbacoa dentro de poco? Asegúrate de que tienes todos los utensilios e información necesarias
-image: /assets\img\uploads\posts\2021\barbacoa\barbacoa-principal.jpg
+image: /assets/img/uploads/posts/2021/barbacoa/barbacoa-principal.jpg
 category: 🚵‍♂️ Tiempo libre
 tags:
   - utensilios
