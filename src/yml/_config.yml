@@ -3,19 +3,17 @@ name: Cosario
 title: Cosario
 description: Te traemos las cosas útiles e interesantes del internet. ¡Siempre contenidos de alta calidad y actualizados! 
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - cosas
+  - tecnología
+  - general
 show_hero: false
 menu:
   - title: Inicio
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+  # - title: About
+  #   url: /about
+  # - title: Contact
+  #   url: /contact
   - title: Feed
     url: /feed.xml
 email: contacto@cosario.net
