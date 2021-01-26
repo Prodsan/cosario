@@ -75,15 +75,26 @@ $color-below-image: #ccc;
   }
 }
 .cincoproductos{//falta por editar
-  @include media(">sm") {
-    width: 60%!important;
+  @media screen and (min-width: 992px) { 
+    width: 80%!important;
     margin-left: auto;
     margin-right: auto;
     margin-top: none;
     margin-bottom: none;
     display: table;
     grid-template-columns: repeat(auto-fit, 20%);
-
+    .product {
+      font-size: 17px!important;
+      width: 18%;
+      margin-right: 1.5%;
+      display: inline-grid;
+    }
+    .listaproducto{
+      font-size: 16px!important;
+    }
+    .description {
+      padding: 0 0!important;
+    }
   }
 }
 

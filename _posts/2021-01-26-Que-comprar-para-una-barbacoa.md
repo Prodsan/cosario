@@ -11,11 +11,33 @@ tags:
   - cosas
   - barbacoas
 author: Pablo
-paginate: false
-published: false
+paginate: true
+published: true
 canonical_URL: https://cosario.net/que-comprar-para-barbacoa/
 ---
-lorem ipsum
+Es hora de ponerse frente al ordenador o al móvil para buscar las cosas que necesitas para ese momento en el que te dispondrás a preparar una barbacoa. Pero para ahorrarte el trabajo, he estado informándome sobre **las mejores barbacoas y utensilios** para realizarlas que te pondré más abajo. 
+
+#### Contenidos
+- [Porciones de carne por tipo de persona](#porciones-de-carne-por-tipo-de-persona)
+- [**Mejores barbacoas/parrillas**](#mejores-barbacoasparrillas)
+- [**Utensilios necesarios**](#utensilios-necesarios)
+  - [Las mejores **Brochetas**](#las-mejores-brochetas)
+  - [**Las mejores Pinzas** relación calidad/precio](#las-mejores-pinzas-relación-calidadprecio)
+
+
+
+### Porciones de carne por tipo de persona
+
+Pero antes no debemos dejar atrás las cantidades de carne que debes comprar.
+Hay que tener en cuenta que para una **mujer** es aconsejable entre **300-350 gramos de carne**, para un **hombre 450-500 gramos** de carne, entre **150-200 gramos** de carne por **niño** y  unos **350-400 gramos** de carne por **persona anciana**. 
+
+Quizás parezca una tontería, pero más de uno seguro que querrá repetir, y según lo que coma esa persona, podrás calcular aproximadamente la cantidad que vas a ir a comprar a la carnicería. 
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=pablorodrig02-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B088X2LTDR&linkId=a49a01abe22a9eaff4f8bd001266d966"></iframe>
+
+### **Mejores barbacoas/parrillas**
+
+Tras indagar buscando **las mejores parrillas de carbón** para hacer una barbacoa, estas son las distintas opciones que podrían servirte perfectamente:
 
 <div class="dosproductos"> 
 <div class="product">
@@ -112,10 +134,12 @@ lorem ipsum
 
 
 
+He optado por elegir **las dos mejores**, que satisfacerán tus necesidades en función de lo que necesites. Es decir, la **parrilla**/**barbacoa** Femor es mucho más práctica ya que es plegable y te servirá tanto para tu casa como para llevártela fuera al campo, por ejemplo. Por otro lado, la Weber es una barbacoa estéticamente más bonita y con mejores materiales (no quiere decir que los materiales de la otra sean malos), y diría que más pensada para dejarla fija en casa ya que es estéticamente muy bonita, y no andar recogiéndola como la Femor.
 
-
-
-//////////////////////////////////////  BROCHETAS
+### **Utensilios necesarios**
+#### Las mejores **Brochetas**
+He reunido basado en relación calidad/precio las que para mí son muy buenas opciones de uno de los utensilios que son necesarios para tu barbacoa/parrillada que además de para la carne, estas brochetas las podrás utilizar también para el pescado y crustáceos, frutas y dulces, verduras, etc.
+Os las dejo a continuación.
 
 <div class="cuatroproductos"> 
 <div class="product">
@@ -245,52 +269,264 @@ lorem ipsum
     </div>
 </div>
 
-<div class="product">
-    <div class="title">
-      Weber 1221004 - Barbacoa Weber Compact Kettle 47 cm Negro
-    </div>
-    
-    <div class="preview">
-      <a href="https://amzn.to/2M5QU71" target="_blank">
-      <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-        <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/brocheta-4.jpg" alt="Femor Barbacoa Portátil de Acero Inoxidable carbón" width="200">
-      </svg></a>
-    </div>
+  <div class="product">
+      <div class="title">
+        Weber 1221004 - Barbacoa Weber Compact Kettle 47 cm Negro
+      </div>
+      
+      <div class="preview">
+        <a href="https://amzn.to/2M5QU71" target="_blank">
+        <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/brocheta-4.jpg" alt="Femor Barbacoa Portátil de Acero Inoxidable carbón" width="200">
+        </svg></a>
+      </div>
 
 
-    <div class="text">
-      <div class="code">Fabricante: DXIA</div>
-      <div class="description">
-        <ul class="listaproducto">
-          <li>Brochetas de bambú 100% biodegradables.</li>
-          <li>Fácil de usar.</li>
-          <li>Palo de bambú de fuerte resistencia y difífil de romper.</li>
-          <li>La cantidad es lo más bueno que destaco de este producto, trae 4 paquetes de 200 en total.</li>
-        </ul>
-        
-        
+      <div class="text">
+        <div class="code">Fabricante: DXIA</div>
+        <div class="description">
+          <ul class="listaproducto">
+            <li>Brochetas de bambú 100% biodegradables.</li>
+            <li>Fácil de usar.</li>
+            <li>Palo de bambú de fuerte resistencia y difífil de romper.</li>
+            <li>La cantidad es lo más bueno que destaco de este producto, trae 4 paquetes de 200 en total.</li>
+          </ul>
+          
+          
+        </div>
+        <div class="review">
+          <span class="star-icon"></span>
+          <span class="star-icon"></span>
+          <span class="star-icon"></span>
+          <span class="star-icon"></span>
+          <span class="star-icon"></span>
+          <a href="https://amzn.to/2M5QU71#customerReviews"><span class="star-reviews">6 valoraciones</span></a>
+        </div>
+        <div class="price">
+        14,19 € 
+        </div>
+        <div class="shop-actions">
+          <button><a href="https://amzn.to/2M5QU71"><img src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-20.png" /> Ver en Amazon</a></button>
+        </div>
       </div>
-      <div class="review">
-        <span class="star-icon"></span>
-        <span class="star-icon"></span>
-        <span class="star-icon"></span>
-        <span class="star-icon"></span>
-        <span class="star-icon"></span>
-        <a href="https://amzn.to/2M5QU71#customerReviews"><span class="star-reviews">6 valoraciones</span></a>
-      </div>
-      <div class="price">
-       14,19 € 
-      </div>
-      <div class="shop-actions">
-        <button><a href="https://amzn.to/2M5QU71"><img src="https://cdn0.iconfinder.com/data/icons/typicons-2/24/shopping-cart-20.png" /> Ver en Amazon</a></button>
-      </div>
-    </div>
+  </div>
 </div>
+
+
+#### **Las mejores Pinzas** relación calidad/precio
+
+Dentro de la sección de las pinzas, las mejores pinzas suelen ser las que están hechas de **madera de "*haya*"**, ya que este material no es perjudicial para la salud, y tampoco altera el sabor de los alimentos. Pero si haces barbacoas muy esporádicamente, no hay problema en comprar unas más normalitas. Entonces, como he hecho anteriormente, Os dejo aquí a continuación varias **pinzas para barbacoas** que cualquiera de ellas te van a ser muy útiles, variando entre calidades (y obviamente también en precio). Escoge la que más te guste. 😉
+
+
+<div class="cincoproductos"> 
+  <div class="product">
+      <div class="title">
+        Sauvic 04468 Pinza con Pala Larga 18/8, Acero Inoxidable
+      </div>
+      
+      <div class="preview">
+        <a href="https://amzn.to/3sZ9Bts" target="_blank">
+        <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/pinzas-1.jpg" alt="Pinchos Barbacoa Acero Inoxidable Pincho" height="250">
+        </svg></a>
+      </div>
+
+      
+        <div class="text">
+          <div class="code">Fabricante: Sauvic</div>
+          <div class="description">
+            <ul class="listaproducto">
+              <li>Material: Acero inoxidable 18/8 electropúlido </li>
+              <li>Grueso de la varilla: 5 mm </li>
+              <li> Es perfecta para uso ocasional y para evitar quemarte las uñas con el tenedor.</li>
+              <li>Muy fáciles de usar y muy cómodas al agarrarlas y usarlas. </li>
+              <li>No recomendada para uso profesional</li>
+            </ul>
+          </div>
+            <div class="review">
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="semi-star-icon"></span>
+              <a href="https://amzn.to/3sZ9Bts#customerReviews"><span class="star-reviews">138 valoraciones</span></a>
+            </div>
+            <div class="price">
+              6,24 €
+            </div>
+            <div class="shop-actions">
+              <button><a href="https://amzn.to/3sZ9Bts"><img src="/assets/img/icons/shopping-cart-20.png" />Ver en Amazon</a></button>
+            </div>
+      </div>
+  </div>
+
+
+  <div class="product">
+      <div class="title">
+        Sauvic 04470 Pinza Barbacoa 18/8 DE 55 CM
+      </div>
+      
+      <div class="preview">
+        <a href="https://amzn.to/3a5Nklc" target="_blank">
+        <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/pinzas-2.jpg" alt="Pinchos Barbacoa Acero Inoxidable Pincho" height="250">
+        </svg></a>
+      </div>
+
+      
+        <div class="text">
+          <div class="code">Fabricante: Sauvic</div>
+          <div class="description">
+            <ul class="listaproducto">
+              <li>Material: Acero inoxidable 18/8 electropúlido </li>
+              <li>Grueso de la varilla: 6 mm </li>
+              <li> Es perfecta para uso ocasional y para evitar quemarte los brazos .</li>
+              <li>A diferencia del modelo anterior, su longitud es de 55 cm. </li>
+            </ul>
+          </div>
+            <div class="review">
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class=""></span>
+              <a href="https://amzn.to/3a5Nklc#customerReviews"><span class="star-reviews">68 valoraciones</span></a>
+            </div>
+            <div class="price">
+              8,49 € 
+            </div>
+            <div class="shop-actions">
+              <button><a href="https://amzn.to/3a5Nklc"><img src="/assets/img/icons/shopping-cart-20.png" />Ver en Amazon</a></button>
+            </div>
+      </div>
+  </div>
+  <div class="product">
+      <div class="title">
+        Relaxdays Pinzas Barbacoa XXL, Acero Inoxidable-Madera, Plateado-Marrón, 38 cm 
+      </div>
+      
+      <div class="preview">
+        <a href="https://amzn.to/3sVfHLy" target="_blank">
+        <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/pinzas-3.jpg" alt="Pinchos Barbacoa Acero Inoxidable Pincho" height="250">
+        </svg></a>
+      </div>
+
+      
+        <div class="text">
+          <div class="code">Fabricante: Relaxdays</div>
+          <div class="description">
+            <ul class="listaproducto">
+              <li>Material: Hechas de acero inoxidable para uso profesional  </li>
+              <li>Pinzas cocina con suspensión fáciles de controlar. Dientes redondeados para sujetar de forma fija. Mango de madera.</li>
+              <li>  Tenazas cocina inoxidables aptas para todo tipo de comida. Aptas para lavavajillas </li>
+              <li>Fácil mecanismo de cierre. No ocupan espacio. Con asa para colgar </li>
+            </ul>
+          </div>
+            <div class="review">
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="semi-star-icon"></span>
+              <a href="https://amzn.to/3sVfHLy#customerReviews"><span class="star-reviews">71 valoraciones</span></a>
+            </div>
+            <div class="price">
+              10,99 €
+            </div>
+            <div class="shop-actions">
+              <button><a href="https://amzn.to/3sVfHLy"><img src="/assets/img/icons/shopping-cart-20.png" />Ver en Amazon</a></button>
+            </div>
+      </div>
+  </div>
+  <div class="product">
+      <div class="title">
+        Garcima 5010405 Pinzas Barbacoa Inoxidable 55x6 cm
+      </div>
+      
+      <div class="preview">
+        <a href="https://amzn.to/3oi4JMO" target="_blank">
+        <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/pinzas-4.jpg" alt="Pinchos Barbacoa Acero Inoxidable Pincho" height="240">
+        </svg></a>
+      </div>
+
+      
+        <div class="text">
+          <div class="code">Fabricante: Garcima</div>
+          <div class="description">
+            <ul class="listaproducto">
+              <li>Material: Realizadas en acero inoxidable </li>
+              <li>Ideales para usar en barbacoas</li>
+              <li> Estas pinzas al ser largas pueden ser algo difícil de manejar según que comida estés preparando </li>
+              <li>Evita quemarse gracias a su gran longitud. </li>
+            </ul>
+          </div>
+            <div class="review">
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class=""></span>
+              <a href="https://amzn.to/3oi4JMO#customerReviews"><span class="star-reviews">30 valoraciones</span></a>
+            </div>
+            <div class="price">
+             10,54 €
+            </div>
+            <div class="shop-actions">
+              <button><a href="https://amzn.to/3oi4JMO"><img src="/assets/img/icons/shopping-cart-20.png" />Ver en Amazon</a></button>
+            </div>
+      </div>
+  </div>
+  <div class="product">
+      <div class="title">
+        isenberg® - Profesional Pinzas Para Barbacoa 
+      </div>
+      
+      <div class="preview">
+        <a href="https://amzn.to/2Yhe1Oi" target="_blank">
+        <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+          <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/pinzas-5.jpg" alt="Pinchos Barbacoa Acero Inoxidable Pincho" height="250">
+        </svg></a>
+      </div>
+
+      
+        <div class="text">
+          <div class="code">Fabricante: isenberg</div>
+          <div class="description">
+            <ul class="listaproducto">
+              <li>Madera de haya. Como he dicho antes, este material no es perjudial para la salud ni altera el sabor de los alimentos </li>
+              <li>60cm de longitud. </li>
+              <li>Hecho a mano.  </li>
+              <li>Encolado y grapado.</li>
+              <li>Bordes y esquinas pulidos. </li>
+            </ul>
+          </div>
+            <div class="review">
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="star-icon"></span>
+              <span class="semi-star-icon"></span>
+              <a href="https://amzn.to/2Yhe1Oi#customerReviews"><span class="star-reviews"> 26 valoraciones</span></a>
+            </div>
+            <div class="price">
+             19,50 € 
+            </div>
+            <div class="shop-actions">
+              <button><a href="https://amzn.to/2Yhe1Oi"><img src="/assets/img/icons/shopping-cart-20.png" />Ver en Amazon</a></button>
+            </div>
+      </div>
+  </div>
+ 
+
 </div>
 
 
+Con todos estos utensilios que necesitabas para hacer tu barbacoa, ya estás preparado para pasar un día estupendo y ¡sorprender a tus invitados asando la carne o verduras como todo un profesional! 😊
 
-He optado por elegir las dos mejores, que satisfacerán tus necesidades en función de lo que necesites. Es decir, la parrilla/barbacoa Femor es mucho más práctica ya que es plegable y te servirá tanto para tu casa como para llevártela fuera al campo, por ejemplo. Por otro lado, la Weber es una barbacoa estéticamente más bonita y con mejores materiales (no quiere decir que los materiales de la otra sean malos), y diría que más pensada para dejarla fija en casa ya que es estéticamente muy bonita, y no andar recogiéndola como la Femor.
+
+
 
 
 
