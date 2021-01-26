@@ -95,7 +95,7 @@ Tras indagar buscando **las mejores parrillas de carbón** para hacer una barbac
     <div class="preview">
       <a href="https://amzn.to/3qGcgXg" target="_blank">
       <svg class="svg" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-        <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/barbacoa-carbon-2.jpg" alt="Femor Barbacoa Portátil de Acero Inoxidable carbón" width="150">
+        <img style="border: 1px solid #e8e8e8;border-radius: 5px; margin-top: 5px " src="/assets/img/uploads/posts/2021/barbacoa/barbacoa-carbon-2.jpg" width="150">
       </svg></a>
     </div>
 
