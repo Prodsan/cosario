@@ -1,0 +1,31 @@
+﻿<Procesadordeimágenes>
+	<version>1</version>
+	<useopen>true</useopen>
+	<includesub>false</includesub>
+	<source></source>
+	<open>false</open>
+	<saveinsame>true</saveinsame>
+	<dest></dest>
+	<jpeg>true</jpeg>
+	<psd>false</psd>
+	<tiff>false</tiff>
+	<lzw>false</lzw>
+	<converticc>false</converticc>
+	<q>3</q>
+	<max>true</max>
+	<jpegresize>false</jpegresize>
+	<jpegw>1</jpegw>
+	<jpegh>1</jpegh>
+	<psdresize>false</psdresize>
+	<psdw>1</psdw>
+	<psdh>1</psdh>
+	<tiffresize>false</tiffresize>
+	<tiffw>1</tiffw>
+	<tiffh>1</tiffh>
+	<runaction>false</runaction>
+	<actionset>Acciones por defecto</actionset>
+	<action>Viñeta (selección)</action>
+	<info></info>
+	<icc>true</icc>
+	<keepstructure>false</keepstructure>
+</Procesadordeimágenes>
