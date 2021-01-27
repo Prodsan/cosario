@@ -6,10 +6,15 @@
     {% assign title = '' %}
     {% if page.layout == 'author' %}
         {% assign title = page.display_name %}
+    {% elsif page.layout == 'main' %}
+        {% assign title = 'Cosario | Te traemos las cosas útiles e interesantes.' %}
     {% elsif page.title %}
         {% assign title = page.title | append: " | " | append: site.name %}
     {% else %}
         {% assign title = site.title %}
+    {% endif %}
+    {% if page.layout == 'main' %}
+        {% assign title = 'Cosario | Te traemos las cosas útiles e interesantes.' %}
     {% endif %}
 
     {% assign image = '' %}
@@ -83,7 +88,7 @@
     <meta name="theme-color" content="#141414">
 
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,700" rel="stylesheet">
+    <link href="{{ '/fuentes/stylesheet.css' | relative_url }}" rel="stylesheet">
 
     <!-- Bootstrap-4 CSS -->
   <!-- <link rel="stylesheet" type="text/css" href="{{ '/assets/css/vendor/bootstrap.min.css' | relative_url }}" /> -->
