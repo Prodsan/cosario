@@ -1,7 +1,7 @@
 /* latin-ext */
 @font-face {
     font-family: 'Titillium Web';
-    font-display: initial;
+    font-display: auto;
     font-style: normal;
     font-weight: 300;
     src: url(/fuentes/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGIVzY4SY.woff2) format('woff2');
@@ -10,7 +10,7 @@
   /* latin */
   @font-face {
     font-family: 'Titillium Web';
-    font-display: initial;
+    font-display: auto;
     font-style: normal;
     font-weight: 300;
     src: url(/fuentes/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzYw.woff2) format('woff2');
@@ -19,7 +19,7 @@
   /* latin-ext */
   @font-face {
     font-family: 'Titillium Web';
-    font-display: initial;
+    font-display: auto;
     font-style: normal;
     font-weight: 400;
     src: url(/fuentes/NaPecZTIAOhVxoMyOr9n_E7fdM3mDbRS.woff2) format('woff2');
@@ -28,7 +28,7 @@
   /* latin */
   @font-face {
     font-family: 'Titillium Web';
-    font-display: initial;
+    font-display: auto;
     font-style: normal;
     font-weight: 400;
     src: url(/fuentes/NaPecZTIAOhVxoMyOr9n_E7fdMPmDQ.woff2) format('woff2');
@@ -37,7 +37,7 @@
   /* latin-ext */
   @font-face {
     font-family: 'Titillium Web';
-    font-display: initial;
+    font-display: auto;
     font-style: normal;
     font-weight: 700;
     src: url(/fuentes/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzY4SY.woff2) format('woff2');
@@ -46,7 +46,7 @@
   /* latin */
   @font-face {
     font-family: 'Titillium Web';
-    font-display: initial;
+    font-display: auto;
     font-style: normal;
     font-weight: 700;
     src: url(/fuentes/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzYw.woff2) format('woff2');
