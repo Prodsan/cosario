@@ -4,7 +4,6 @@ photo: /assets/img/uploads/psx_20200907_030911-cuadrado.jpg
 name: Pablo
 display_name: Pablo Rodríguez
 permalink: "/biografia/"
-canonical_URL: https://cosario.net/biografia
 
 bio: >-
   Soy un apasionado de la web y disfruto creando contenidos que creo que pueden
