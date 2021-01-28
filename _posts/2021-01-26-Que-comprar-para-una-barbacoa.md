@@ -1,7 +1,7 @@
 ---
 date: 2021-01-26 03:19:29
 layout: post
-title: 🔰 ¿Qué comprar para una barbacoa? 
+title: ¿Qué comprar para una barbacoa? 🥩
 permalink: "/que-comprar-para-barbacoa/" # importante para canonical_url
 subtitle: Información y selección de los mejores productos y todas las cosas que necesitas para hacer una barbacoa
 description: ¿Vas a preparar una barbacoa dentro de poco? Asegúrate de que tienes todos los utensilios e información necesarias
