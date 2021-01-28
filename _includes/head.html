@@ -38,7 +38,7 @@
         {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
-    {% seo %}
+    {% seo title=false %}
 
     <title>{{ title }}</title>
     <meta name="description" content="{{ description }}">
