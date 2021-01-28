@@ -5,16 +5,13 @@
 
     {% assign title = '' %}
     {% if page.layout == 'author' %}
-        {% assign title = page.display_name %}
-    {% elsif page.layout == 'main' %}
-        {% assign title = 'Cosario | Te traemos las cosas útiles e interesantes.' %}
+        {% assign title = page.display_name | append: ' | Cosario' %}
+    {% elsif page.layout == 'home' %}
+        {% assign title = 'Cosario | Te traemos las cosas útiles e interesantes' %}
     {% elsif page.title %}
         {% assign title = page.title | append: " | " | append: site.name %}
     {% else %}
         {% assign title = site.title %}
-    {% endif %}
-    {% if page.layout == 'main' %}
-        {% assign title = 'Cosario | Te traemos las cosas útiles e interesantes.' %}
     {% endif %}
 
     {% assign image = '' %}
