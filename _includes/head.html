@@ -35,10 +35,9 @@
         {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
-    {% seo title=false %}
-
-    <title>{{ title }}</title>
-    <meta name="description" content="{{ description }}">
+    {% seo %}
+    <title>{{title}}</title>
+    
     {% if page.tags %}
         <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
