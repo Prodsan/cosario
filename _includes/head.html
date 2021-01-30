@@ -9,7 +9,7 @@
     {% elsif page.layout == 'home' %}
         {% assign title = 'Cosario | Te traemos las cosas útiles e interesantes' %}
     {% elsif page.title %}
-        <!-- {% assign title = page.title | append: " | " | append: site.name %} -->
+        {% assign title = page.title  %}
     {% else %}
         {% assign title = site.title %}
     {% endif %}
@@ -35,7 +35,7 @@
         {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
-    {% seo %}
+    {% seo title=false%}
     <title>{{title}}</title>
     
     {% if page.tags %}
