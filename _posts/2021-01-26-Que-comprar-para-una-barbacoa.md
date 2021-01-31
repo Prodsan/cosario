@@ -35,7 +35,6 @@ Hay que tener en cuenta que para una **mujer** es aconsejable entre **300-350 gr
 
 Quizás parezca una tontería, pero más de uno seguro que querrá repetir, y según lo que coma esa persona, podrás calcular aproximadamente la cantidad que vas a ir a comprar a la carnicería. 
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=pablorodrig02-21&language=es_ES&o=30&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B088X2LTDR&linkId=a49a01abe22a9eaff4f8bd001266d966"></iframe>
 
 ### **Mejores barbacoas/parrillas**
 

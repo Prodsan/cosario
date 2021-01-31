@@ -7,7 +7,7 @@
     {% if page.layout == 'author' %}
         {% assign title = page.display_name | append: ' | Cosario' %}
     {% elsif page.layout == 'home' %}
-        {% assign title = 'Cosario | Te traemos las cosas útiles e interesantes' %}
+        {% assign title = 'Cosario | El catálogo-repertorio de las cosas' %}
     {% elsif page.title %}
         {% assign title = page.title  %}
     {% else %}
@@ -35,7 +35,7 @@
         {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
-    {% seo title=false%}
+    {% seo title=false %}
     <title>{{title}}</title>
     
     {% if page.tags %}
