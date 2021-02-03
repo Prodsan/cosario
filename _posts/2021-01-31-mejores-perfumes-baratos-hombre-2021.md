@@ -12,8 +12,8 @@ tags:
   - hombres
   - baratos
 author: Pablo
-paginate: false
-published: false
+paginate: true
+published: true
 
 ---
 
