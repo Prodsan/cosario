@@ -30,7 +30,7 @@
                 {% include toc.html %}
 
                 {{ content }}
-                
+
                 <div class="rw-ui-container"></div>
 
                 {% include pagination-post.html %}
@@ -137,7 +137,7 @@
                 {% if author.photo %}
                 "image": "{{ author.photo }}",
                 {% else %}
-                "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
+                "image": {{ "https://cosario.net/assets/img/uploads/psx_20200907_030911-cuadrado.jpg" | prepend: site.baseurl | prepend: site.url }},
                 {% endif %}
                 "jobTitle": "{{ author.position }}",
                 "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}",
