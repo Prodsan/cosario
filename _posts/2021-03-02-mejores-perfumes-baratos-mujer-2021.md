@@ -24,7 +24,7 @@ Es el accesorio que le da a toda persona un toque de sensualidad y seducción.
 Son una pieza clave para muchos eventos y/o acontecimientos especiales, así como el **complemento perfecto** para el día a día.
 
 Cualquier momento es perfecto para oler bien y que los demás admiren nuestro buen gusto a la hora de escoger una fragancia.
-Es por ello que hemos realizado un catálogo-recopilación con **marcas reconocidas** de **los mejores perfumes para hombres baratos y relación precio del 2021**.
+Es por ello que hemos realizado un catálogo-recopilación con **marcas reconocidas** de **los mejores perfumes para mujeres baratos y relación precio del 2021**.
 
 > Los perfumes abajo expuestos serán siempre **recomendados** bajo un filtro de criterio de compra y/o bajo la propia experiencia de cosario.net
 
