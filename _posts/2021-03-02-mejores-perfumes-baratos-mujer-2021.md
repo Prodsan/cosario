@@ -33,7 +33,7 @@ published: true
                         "name": "El consumidor de perfumes para mujeres siempre satisfecho en Cosario.net",
                         "reviewRating": {
                            "@type": "Rating",
-                           "ratingValue": "4.5",
+                           "ratingValue": "4.5"
                         }
                      }
                    ]
