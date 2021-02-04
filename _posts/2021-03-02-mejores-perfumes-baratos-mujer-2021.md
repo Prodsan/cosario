@@ -22,26 +22,21 @@ published: true
       "@type": "WebPage",
       "breadcrumb": "Cuidado personal > Perfumes para mujer baratos",
       "mainEntity":{
-         "aggregateRating": {
-         "@type": "AggregateRating",
-         "ratingValue": "4.5",
-         "reviewCount": "1"
-         },
          "name": "Encontrado: 🥇‍ ▷ Los mejores perfumes baratos para mujer 【2021】",
          "image": "https://cosario.net/assets/img/uploads/posts/2021/perfumes mujer/perfume_mujer_principal.jpg",
          "review": [
-         {
-            "@type": "Review",
-            "author": "clasificación",
-            "datePublished": "2021-02-04",
-            "reviewBody": "Cualquier momento es perfecto para oler bien y que los demás admiren nuestro buen gusto a la hora de escoger una fragancia. Es por ello que hemos realizado un catálogo-recopilación con marcas reconocidas de los mejores perfumes para mujeres baratos y relación precio del 2021.",
-            "name": "El consumidor de perfumes para mujeres siempre satisfecho en Cosario.net",
-            "reviewRating": {
-               "@type": "Rating",
-               "ratingValue": "4.5",
-            }
-         }
-         ]
+                     {
+                        "@type": "Review",
+                        "author": "clasificación",
+                        "datePublished": "2021-02-04",
+                        "reviewBody": "Cualquier momento es perfecto para oler bien y que los demás admiren nuestro buen gusto a la hora de escoger una fragancia. Es por ello que hemos realizado un catálogo-recopilación con marcas reconocidas de los mejores perfumes para mujeres baratos y relación precio del 2021.",
+                        "name": "El consumidor de perfumes para mujeres siempre satisfecho en Cosario.net",
+                        "reviewRating": {
+                           "@type": "Rating",
+                           "ratingValue": "4.5",
+                        }
+                     }
+                   ]
       }
    }
     </script>
