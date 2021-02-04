@@ -19,6 +19,7 @@ published: true
 <script type="application/ld+json">
     {
       "@context": "https://schema.org/",
+      "name": "🥇‍ ▷ Los mejores perfumes baratos para mujer 【2021】",
       "aggregateRating": {
       "@type": "AggregateRating",
       "ratingValue": "4.5",
