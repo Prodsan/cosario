@@ -22,7 +22,7 @@ published: true
       "@type": "WebPage",
       "breadcrumb": "Cuidado personal > Perfumes para mujer baratos",
       "mainEntity":{
-         "@type": "WebPage",
+         "@type": "Product",
          "name": "Encontrado: 🥇‍ ▷ Los mejores perfumes baratos para mujer 【2021】",
          "image": "https://cosario.net/assets/img/uploads/posts/2021/perfumes mujer/perfume_mujer_principal.jpg",
          "review": [
