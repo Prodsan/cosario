@@ -16,13 +16,12 @@ author: Cosario
 paginate: true
 published: true
 ---
-<div itemscope itemtype="http://schema.org/Product">
-<span itemprop="name">🥇‍ ▷ Los mejores perfumes baratos para mujer 【2021】</span>
-<div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-   Calificación: <span itemprop="ratingValue">4.5</span>/5
-   <span itemprop="reviewCount">1</span> puntuación
-</div>
-</div>
+<div itemprop="aggregateRating"
+    itemscope itemtype="schema/AggregateRating">
+    <span itemprop="ratingValue">4.5</span>
+    de <span itemprop="bestRating">5</span>
+    <span itemprop="ratingCount">1</span> valoraciones
+  </div>
 
 
 
