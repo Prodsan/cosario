@@ -10256,3 +10256,26 @@ div.cc-floating-wrapper {
 		margin: 0 0 1em 1em
 	}
 }
+
+
+// rich rating stars
+
+.rw-ui-report.rw-dir-ltr{
+	display: none!important;
+}
+.rw-ui-container.rw-dir-ltr{
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	
+}
+.rw-ui-container.rw-halign-center, .rw-ui-container.rw-halign-center .rw-ui-info-inner-container{
+	text-align: center;
+	width: 100%!important;
+	background: transparent;
+	border: 0px;
+}
+.rw-ui-info-container:hover .rw-ui-info-inner-container {
+	background: transparent!important;
+	border: 0px!important;
+}
