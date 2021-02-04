@@ -158,7 +158,32 @@
         rw.src = p + "//" + a + "external" + f + ".js?ck=" + ck;
         s.parentNode.insertBefore(rw, s);
         }(document, new Date(), "script", "rating-widget.com/"));</script>
-    
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "AggregateRating",
+      
+      "ratingValue": "4.5",
+      "ratingCount": "1"
+    }
+    </script>
+
+    <!-- "itemReviewed": {
+        "@type": "Post",
+        "image": "http://www.example.com/seafood-restaurant.jpg",
+        "name": "Legal Seafood",
+        "servesCuisine": "Seafood",
+        "telephone": "1234567",
+        "address" : {
+          "@type": "PostalAddress",
+          "streetAddress": "123 William St",
+          "addressLocality": "New York",
+          "addressRegion": "NY",
+          "postalCode": "10038",
+          "addressCountry": "US"
+        }
+      }, -->
 
     {% include cookie-consent.html %}
     <!-- JavaScript enabled/disabled -->
