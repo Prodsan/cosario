@@ -16,12 +16,19 @@ author: Cosario
 paginate: true
 published: true
 ---
-<div itemprop="aggregateRating"
-    itemscope itemtype="schema/AggregateRating">
-    <span itemprop="ratingValue">4.5</span>
-    de <span itemprop="bestRating">5</span>
-    <span itemprop="ratingCount">1</span> valoraciones
-  </div>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "AggregateRating",
+      "itemReviewed": {
+        "@type": "BlogPosting",
+        "image": "https://cosario.net/assets/img/uploads/posts/2021/perfumes mujer/perfume_mujer_principal.jpg",
+        "name": "🥇‍ ▷ Los mejores perfumes baratos para mujer 【2021】"
+      },
+      "ratingValue": "4.5",
+      "ratingCount": "1"
+    }
+</script>
 
 
 
