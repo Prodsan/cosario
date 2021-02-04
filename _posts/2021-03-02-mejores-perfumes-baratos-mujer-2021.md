@@ -16,6 +16,24 @@ author: Cosario
 paginate: true
 published: true
 ---
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "AggregateRating",
+      "itemReviewed": {
+        "@type": "Post",
+        "image": "https://cosario.net/assets/img/uploads/posts/2021/perfumes mujer/perfume_mujer_principal.jpg",
+        "name": "🥇‍ ▷ Los mejores perfumes baratos para mujer 【2021】",
+      },
+      "ratingValue": "4.5",
+      "ratingCount": "1"
+    }
+    </script>
+
+
+
+
+
 
 El uso de los perfumes es un signo de personalidad y que da ese toque de elegancia tanto para las mujeres como para los hombres.
 
@@ -993,12 +1011,3 @@ En definitiva, esperamos que haya encontrado el **perfume para mujer** que estab
 
 > Hemos intentado escoger los perfumes que creo que van a estar disponibles a corto y a largo plazo, ya que es comprensible que si vienes buscando un perfume que se adapte a ti, quieras uno que te garantice la disponibilidad del perfume para la próxima vez que lo quieras comprar 😉.
 
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org/",
-      "@type": "AggregateRating",
-      
-      "ratingValue": "4.5",
-      "ratingCount": "1"
-    }
-    </script>
