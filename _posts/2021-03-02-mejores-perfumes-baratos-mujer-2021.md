@@ -21,7 +21,7 @@ published: true
       "@context": "https://schema.org/",
       "@type": "AggregateRating",
       "itemReviewed": {
-        "@type": "BlogPosting",
+        "@type": "Product",
         "image": "https://cosario.net/assets/img/uploads/posts/2021/perfumes mujer/perfume_mujer_principal.jpg",
         "name": "🥇‍ ▷ Los mejores perfumes baratos para mujer 【2021】"
       },
