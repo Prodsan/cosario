@@ -11,8 +11,7 @@ tags:
   - perfumes
   - hombres
   - baratos
-author: Pablo
-publisher: Pablo
+author: Cosario
 paginate: true
 published: true
 

@@ -12,8 +12,7 @@ tags:
   - mujeres
   - baratos
   - recomendados
-author: Pablo
-publisher: Pablo
+author: Cosario
 paginate: true
 published: true
 ---
