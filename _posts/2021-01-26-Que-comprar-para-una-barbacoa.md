@@ -12,8 +12,8 @@ tags:
   - cosas
   - barbacoas
 author: Pablo
-paginate: false
-published: false
+paginate: true
+published: true
 
 ---
 Es hora de ponerse frente al ordenador o al móvil para buscar las cosas que necesitas para ese momento en el que te dispondrás a preparar una barbacoa. Pero para ahorrarte el trabajo, he estado informándome sobre **las mejores barbacoas y utensilios** para realizarlas que te pondré más abajo. 
